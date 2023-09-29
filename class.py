@@ -5,7 +5,7 @@ class person:
 
 person1 = person("Sara")
 person2 = person("Jenny")
-
+person1.name = "Sally"
 
 print(person1.name)
 print(person2.name)
